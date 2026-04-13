@@ -1,0 +1,460 @@
+[
+  {
+    "Id": 1,
+    "Title": "Тест на уровень стресса",
+    "Description": "Проверьте насколько часто вы испытываете стресс в последнее время",
+    "CoverImage": "https://i.pinimg.com/1200x/91/be/de/91bede62b8fa28f9b6d92916765cd191.jpg",
+    "AuthorId": 1,
+    "CreatedAt": "2024-01-01T00:00:00",
+    "IsPublished": true,
+    "TimeLimitSeconds": 1200,
+    "QuestionCount": 3,
+    "Questions": [
+      {
+        "Id": 1,
+        "TestId": 1,
+        "Text": "Как часто вы чувствуете усталость?",
+        "QuestionNumber": 1,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "Никогда",
+            "Points": 0
+          },
+          {
+            "Id": 2,
+            "Text": "Редко",
+            "Points": 0
+          },
+          {
+            "Id": 3,
+            "Text": "Часто",
+            "Points": 0
+          },
+          {
+            "Id": 4,
+            "Text": "Постоянно",
+            "Points": 0
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "TestId": 1,
+        "Text": "Сколько часов вы спите?",
+        "QuestionNumber": 2,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "Меньше 6",
+            "Points": 0
+          },
+          {
+            "Id": 2,
+            "Text": "6-8 часов",
+            "Points": 0
+          },
+          {
+            "Id": 3,
+            "Text": "Больше 8",
+            "Points": 0
+          },
+          {
+            "Id": 4,
+            "Text": "Нерегулярно",
+            "Points": 0
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "TestId": 1,
+        "Text": "Как вы проводите выходные?",
+        "QuestionNumber": 3,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "Работаю",
+            "Points": 0
+          },
+          {
+            "Id": 2,
+            "Text": "Отдыхаю",
+            "Points": 0
+          },
+          {
+            "Id": 3,
+            "Text": "Сплю весь день",
+            "Points": 0
+          },
+          {
+            "Id": 4,
+            "Text": "Нервничаю",
+            "Points": 0
+          }
+        ]
+      }
+    ],
+    "ResultRanges": [
+      {
+        "Id": 1,
+        "MinPoints": 1,
+        "MaxPoints": 10,
+        "Title": "Низкий стресс",
+        "Description": "У вас низкий уровень стресса. Вы спокойны и уравновешены!"
+      },
+      {
+        "Id": 2,
+        "MinPoints": 11,
+        "MaxPoints": 20,
+        "Title": "Средний стресс",
+        "Description": "У вас средний уровень стресса. Стоит немного отдохнуть."
+      },
+      {
+        "Id": 3,
+        "MinPoints": 21,
+        "MaxPoints": 30,
+        "Title": "Высокий стресс",
+        "Description": "У вас высокий уровень стресса! Рекомендуется взять перерыв и расслабиться."
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": "кто вы",
+    "Description": "jjj",
+    "CoverImage": "test.jpg",
+    "AuthorId": 1,
+    "CreatedAt": "2026-03-05T01:57:35.324284+03:00",
+    "IsPublished": true,
+    "TimeLimitSeconds": 1200,
+    "QuestionCount": 3,
+    "Questions": [
+      {
+        "Id": 1,
+        "TestId": 0,
+        "Text": "hhh",
+        "QuestionNumber": 1,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "дда",
+            "Points": 0
+          },
+          {
+            "Id": 2,
+            "Text": "нет",
+            "Points": 0
+          },
+          {
+            "Id": 3,
+            "Text": "иногда",
+            "Points": 0
+          },
+          {
+            "Id": 4,
+            "Text": "никогда",
+            "Points": 0
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "TestId": 0,
+        "Text": "kk",
+        "QuestionNumber": 2,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "р",
+            "Points": 0
+          },
+          {
+            "Id": 2,
+            "Text": "е",
+            "Points": 0
+          },
+          {
+            "Id": 3,
+            "Text": "п",
+            "Points": 0
+          },
+          {
+            "Id": 4,
+            "Text": "ж",
+            "Points": 0
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "TestId": 0,
+        "Text": "llll",
+        "QuestionNumber": 3,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "уу",
+            "Points": 0
+          },
+          {
+            "Id": 2,
+            "Text": "нн",
+            "Points": 0
+          },
+          {
+            "Id": 3,
+            "Text": "те",
+            "Points": 0
+          },
+          {
+            "Id": 4,
+            "Text": "ье",
+            "Points": 0
+          }
+        ]
+      }
+    ],
+    "ResultRanges": null
+  },
+  {
+    "Id": 3,
+    "Title": "кто вы",
+    "Description": "ggggg",
+    "CoverImage": "https://i.pinimg.com/736x/31/15/15/311515f117a1d7500eb1542ff77b5826.jpg",
+    "AuthorId": 1,
+    "CreatedAt": "2026-03-28T21:36:35.6964935+03:00",
+    "IsPublished": true,
+    "TimeLimitSeconds": 1200,
+    "QuestionCount": 3,
+    "Questions": [
+      {
+        "Id": 1,
+        "TestId": 0,
+        "Text": "ааааа",
+        "QuestionNumber": 1,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "ааа",
+            "Points": 1
+          },
+          {
+            "Id": 2,
+            "Text": "ааа",
+            "Points": 2
+          },
+          {
+            "Id": 3,
+            "Text": "аааааа",
+            "Points": 3
+          },
+          {
+            "Id": 4,
+            "Text": "ааааа",
+            "Points": 4
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "TestId": 0,
+        "Text": "рррррр",
+        "QuestionNumber": 2,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "ууу",
+            "Points": 1
+          },
+          {
+            "Id": 2,
+            "Text": "уууу",
+            "Points": 2
+          },
+          {
+            "Id": 3,
+            "Text": "уууу",
+            "Points": 3
+          },
+          {
+            "Id": 4,
+            "Text": "уууууу",
+            "Points": 4
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "TestId": 0,
+        "Text": "ттттттт",
+        "QuestionNumber": 3,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "тттттт",
+            "Points": 1
+          },
+          {
+            "Id": 2,
+            "Text": "тттттт",
+            "Points": 2
+          },
+          {
+            "Id": 3,
+            "Text": "тттттт",
+            "Points": 3
+          },
+          {
+            "Id": 4,
+            "Text": "тттттттт",
+            "Points": 4
+          }
+        ]
+      }
+    ],
+    "ResultRanges": [
+      {
+        "Id": 1,
+        "MinPoints": 1,
+        "MaxPoints": 4,
+        "Title": "блаблабла",
+        "Description": "уууу"
+      },
+      {
+        "Id": 2,
+        "MinPoints": 5,
+        "MaxPoints": 8,
+        "Title": "бебебе",
+        "Description": "лалала"
+      },
+      {
+        "Id": 3,
+        "MinPoints": 9,
+        "MaxPoints": 12,
+        "Title": "бубубу",
+        "Description": "лелеле"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Title": "какой вы тип личности",
+    "Description": "ааааа",
+    "CoverImage": "https://i.pinimg.com/736x/31/15/15/311515f117a1d7500eb1542ff77b5826.jpg",
+    "AuthorId": 1,
+    "CreatedAt": "2026-03-28T22:00:21.501771+03:00",
+    "IsPublished": true,
+    "TimeLimitSeconds": 1200,
+    "QuestionCount": 3,
+    "Questions": [
+      {
+        "Id": 1,
+        "TestId": 0,
+        "Text": "блаблабла",
+        "QuestionNumber": 1,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "да",
+            "Points": 1
+          },
+          {
+            "Id": 2,
+            "Text": "нет",
+            "Points": 2
+          },
+          {
+            "Id": 3,
+            "Text": "иногда",
+            "Points": 3
+          },
+          {
+            "Id": 4,
+            "Text": "нууутхзхх",
+            "Points": 4
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "TestId": 0,
+        "Text": "бубубу",
+        "QuestionNumber": 2,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "да",
+            "Points": 1
+          },
+          {
+            "Id": 2,
+            "Text": "дада",
+            "Points": 2
+          },
+          {
+            "Id": 3,
+            "Text": "не",
+            "Points": 3
+          },
+          {
+            "Id": 4,
+            "Text": "нене",
+            "Points": 4
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "TestId": 0,
+        "Text": "бубу",
+        "QuestionNumber": 3,
+        "Answers": [
+          {
+            "Id": 1,
+            "Text": "бебебе",
+            "Points": 1
+          },
+          {
+            "Id": 2,
+            "Text": "ноу",
+            "Points": 2
+          },
+          {
+            "Id": 3,
+            "Text": "ес",
+            "Points": 3
+          },
+          {
+            "Id": 4,
+            "Text": "еееее",
+            "Points": 4
+          }
+        ]
+      }
+    ],
+    "ResultRanges": [
+      {
+        "Id": 1,
+        "MinPoints": 1,
+        "MaxPoints": 4,
+        "Title": "интроверт",
+        "Description": "капец"
+      },
+      {
+        "Id": 2,
+        "MinPoints": 5,
+        "MaxPoints": 8,
+        "Title": "экстраверт",
+        "Description": "жесть"
+      },
+      {
+        "Id": 3,
+        "MinPoints": 9,
+        "MaxPoints": 12,
+        "Title": "амбиверт",
+        "Description": "ужас"
+      }
+    ]
+  }
+]
