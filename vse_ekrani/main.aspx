@@ -38,18 +38,9 @@
             box-shadow: 0 10px 40px rgba(0,0,0,0.1);
         }
 
-        .logo {
-            font-size: 28px;
-            font-weight: bold;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-
         .user-section {
             display: flex;
-            align-items: center;
+            align-items: center
             gap: 15px;
         }
 
