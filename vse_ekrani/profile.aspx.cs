@@ -88,8 +88,6 @@ namespace test.vse_ekrani
             }
             else
             {
-                // Берём последние 5 результатов
-                var lastResults = results.OrderByDescending(r => r.CompletedAt).Take(5).ToList();
 
                 // Добавляем названия тестов
                 var resultsWithTitles = new List<object>();
