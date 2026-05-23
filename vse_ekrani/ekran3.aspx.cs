@@ -134,8 +134,7 @@ namespace test.vse_ekrani
                     }
                 }
 
-                // Добавляем текущий ответ
-                userAnswers[currentIndex] = int.Parse(selectedAnswer);
+               
 
                 // Сохраняем обратно
                 hdnUserAnswers.Value = string.Join(";", userAnswers.Select(kvp => $"{kvp.Key}:{kvp.Value}"));
